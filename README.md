@@ -1,1 +1,1 @@
-this is reddy
+Learning Git and GitHub practically.
